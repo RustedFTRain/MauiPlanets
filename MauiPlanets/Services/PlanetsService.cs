@@ -14,7 +14,7 @@ namespace Services
                 HeroImage = "mercury.png",
                 Description = "Mercury is the first planet from the Sun and the " +
                 "smallest in the Solar System. In English, it is named after the " +
-                "ancient Roman god Mercurius (Mercury), god of commerce and " +
+                "ancient Roman gods Mercurius (Mercury), god of commerce and " +
                 "communication, and the messenger of the gods.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
